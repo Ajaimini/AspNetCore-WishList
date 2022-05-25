@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WishList.Data;
 
-namespace WishList.Properties
+namespace WishList.Controllers
 {
     public class ItemController : Controller
     {
